@@ -1,6 +1,12 @@
-# Flask-02-Render-Template
-In this video, we dive into Flask's `render_template` function, which allows you to create dynamic HTML pages easily. You'll learn how to pass data from your Flask app to your templates, use Jinja2 templating engine, and make your web pages interactive and user-friendly. This video is perfect for beginners who want to enhance their Flask skills and start building more complex web applications. All concepts are explained in simple Hindi, making it easy to follow along.
+# Flask-03-Link-Static-Files
 
-Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/nXGZPfjx7wI)
+In this video, we explore how to manage and serve static files in Flask, such as CSS, JavaScript, and images. You'll learn how to properly organize your static files within your Flask project and link them to your HTML templates to enhance your web application's design and functionality. Whether you're looking to add custom styles or make your site interactive with JavaScript, this video will guide you through it all. As always, the explanations are in simple Hindi, perfect for beginners!
+### What you learn:-
+- Learn how to manage and serve static files in Flask.
+- Organize your CSS, JavaScript, and image files efficiently.
+- Link static files to your HTML templates.
+- Enhance the look and feel of your web applications.
+
+Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/9K-Z3C_WAL8)
 
 Watch the video now and take your Flask web development to the next level!
